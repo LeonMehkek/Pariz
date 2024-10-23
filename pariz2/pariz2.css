@@ -1,0 +1,75 @@
+.divhead {
+background-color:#4fa0bd}
+
+.naslov {
+    font-size:60px;
+    font-weight:900;
+    font-family:cursive;
+    color: white;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    letter-spacing: 8px;
+    text-align: center;
+}
+
+.navigation {
+	background-color:#80b2c5}
+
+.navopcije {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #74b5d3;
+      }
+      
+li {
+        float:left;
+      }
+      
+li a {
+    
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+      }
+
+.prijava {
+    margin-left: 1500px;
+    background-color: rgb(56, 88, 116);
+}
+
+.slika {
+    height: 500px;
+    width: 650px;
+    margin-left: 1100px;
+    margin-top: 0px;
+    
+    
+}
+
+footer {
+    background-color: #4fa0bd
+}
+
+.dodatneinformacije {
+    background-color: #74b5d3;
+}
+
+.naslovnastranici {
+    font-size: 50px;
+    font-family: cursive;
+    margin-left: 30px;
+    
+}
+
+.textnastranici {
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+    
+}
